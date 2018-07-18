@@ -1,0 +1,9 @@
+def Add(x,y):
+"""Add Function"""
+return x+y
+
+def Substract(x,y):
+"""Substract Function"""
+return x-y
+
+
