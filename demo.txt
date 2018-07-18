@@ -6,4 +6,10 @@ def Substract(x,y):
 """Substract Function"""
 return x-y
 
+def Divide (x,y);
+"""Divide Function"""
+return x/y
 
+def Multipli (x,y);
+"""Multipi Function"""
+return x*y
